@@ -1,16 +1,6 @@
-## Hi there, I'm Daniel 👋
+# 💫 Hi, I'm Daniel<br><br>
 
-I’m a freelance web developer based in **Lagos, Nigeria**, passionate about building clean, scalable, and user-focused web applications. I currently specialize in PHP and I'm actively expanding my skills with **React** and **Node.js**.
-
-### 💼 Professional Focus
-
-- **Languages & Frameworks:** PHP, React (learning), Node.js (learning) <br>
-- **Areas of Expertise:** Web Development, Freelance Projects, Dynamic Web Applications <br>
-- **Current Role:** Freelance Web Developer <br>
-- **Current Interests:** Modern JavaScript, Full Stack Development <br>
-
-# 💫 About Me:
-Hi, I'm Daniel<br><br>I’m a freelance web developer based in **Lagos, Nigeria**, passionate about building clean, scalable, and user-focused web applications. I currently specialize in PHP and I'm actively expanding my skills with **React** and **Node.js**.<br><br>💼 Professional Focus<br><br>- **Languages & Frameworks:** PHP, React (learning), Node.js (learning)<br>- **Areas of Expertise:** Web Development, Freelance Projects, Dynamic Web Applications<br>- **Current Role:** Freelance Web Developer<br>- **Current Interests:** Modern JavaScript, Full Stack Development
+I’m a freelance web developer based in **Lagos, Nigeria**, passionate about building clean, scalable, and user-focused web applications. I currently specialize in PHP and I'm actively expanding my skills with **React** and **Node.js**.<br><br>💼 Professional Focus<br><br>- **Languages & Frameworks:** PHP, React (learning), Node.js (learning)<br>- **Areas of Expertise:** Web Development, Freelance Projects, Dynamic Web Applications<br>- **Current Role:** Freelance Web Developer<br>- **Current Interests:** Modern JavaScript, Full Stack Development
 
 
 ## 🌐 Socials:
